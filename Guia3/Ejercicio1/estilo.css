@@ -1,0 +1,20 @@
+.botones{
+    background-color:black;
+    width:150px;
+    height:130px;
+    border-radius: 25px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+
+  .cont{
+    width: 30px;
+    display: flex;
+    list-style:none;
+  }
+
+  .pantalla{
+    justify-content: center;
+    margin: auto;
+  }
